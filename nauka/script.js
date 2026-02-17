@@ -1,0 +1,1 @@
+alert('dawaj lajka')
